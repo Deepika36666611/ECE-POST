@@ -1,0 +1,10 @@
+#ANGLE MODULATION
+When the total angle of carrier signal changes wrt to message signal amplitude variation it is known as angle modulation.
+* when the modulation occurs due to dependence of fc on m(t) it is frequncy modulation.
+* When the modulation occur due to dependence of &(t) then it is phase modulation.
+
+MAXIMUM FREQ DEVIATION
+It is the differnce btw the max freq of FM signal to that of the frequency of unmodulated carrier signal
+
+#ANGLE OF fm
+The instantanous value phai(t) of FM signal is related to the instantanous frequency fi(t).
