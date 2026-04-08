@@ -1,0 +1,16 @@
+#HALF ADDER
+A half adder is digital circuit used to add two binary numbers.
+
+#INPUTS
+a,b
+
+#OUTPUTS
+sum=a^b(xor)
+carry=a&b(and)
+
+#TRUTH TABLE
+a  |  b | sum | carry |
+0  |  0 |  0  | 0     |
+0  |  1 |  1  | 0     |
+1  |  0 |  1  | 0     |
+1  |  1 |  0  | 1     |
