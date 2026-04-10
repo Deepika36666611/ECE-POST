@@ -1,0 +1,18 @@
+## BASIC DEFINATION
+
+#FM DEMODULATION 
+*Frequency discrimination method
+  --slope detector
+  --balanced slope detector
+
+  *Phase discrimination
+  --fodter suely detector
+  --ratio detector
+  --pll(phase locked loop)method
+
+  #PLL DEMODULATION
+  > Derivation
+  >block diagram,definition
+
+  #BALANCED SLOPE DETECTOR
+  >definition,diagram
